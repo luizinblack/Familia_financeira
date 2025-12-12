@@ -1,0 +1,7 @@
+{
+  "name": "Família Financeira",
+  "description": "Dashboard completo de gerenciamento financeiro familiar com IA para transcrição de gastos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
